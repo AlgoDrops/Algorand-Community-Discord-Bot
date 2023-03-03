@@ -5,11 +5,11 @@ Algorand discord bot for projects with community tokens. This bot contains the f
 
 1) __balance__ - shows balance of token held in algorand wallet
 
-2) __coinflip__ - Coinflip leaderboard to show users win and profit leaderboard 
+2) __coinflip-leaderboard__ - Coinflip leaderboard to show users win and profit leaderboard 
 
 3) __coinflip__ - Game where user bets N amount of tokens coinflip
 
-4) __diceroll__ - Diceroll leaderboard to show users win and profit leaderboard 
+4) __diceroll-leaderboard__ - Diceroll leaderboard to show users win and profit leaderboard 
 
 5) __diceroll__ - Game where user bets on a diceroll. User and bot will both roll a N sided dice. Higher number from roll wins
 
