@@ -93,6 +93,7 @@ F.A.Q.
 ------
 
 __Q:__ How do i adjust the command cooldown.
+
 __A:__ To adjust edit the file of the command you want and change the cooldown variable value to time wanted. All time is in minutes `const cooldown = 90;` (90 min cooldown)
 
 More Q&A to come!
@@ -115,4 +116,4 @@ One way to contribute changes is to send a GitHub Pull Request.
 
 
 
-Becareful who you trust! Watch out for thiefs and scammers!
+Becareful who you trust! Watch out for thieves and scammers!
