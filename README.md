@@ -80,8 +80,11 @@ Setup Instructions
 To start the bot I recommend using NPM forever or PM2 for process manage to keep the script alive
 - https://npmjs.com/package/forever
 - https://pm2.keymetrics.io/
+
 `forever start main.js` will start the bot
+
 `forever list` will list all running processes
+
 `forever stop PID` will stop the process for the give process id(PID)
 
 Bot will currently download and cache all created assets for up to 3 creator address the first time the bot is started only
