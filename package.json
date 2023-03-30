@@ -9,7 +9,7 @@
 	"dependencies": {
 		"algosdk": "^1.17",
 		"axios": "^1.1",
-		"discord.js": "^14.3",
+		"discord.js": "^14.8",
 		"dotenv": "^16.0",
 		"fs": "^0.0.1-security",
 		"join-images": "^1.1.3",
