@@ -59,7 +59,7 @@ const invoke = async (interaction, client) => {
 		await interaction.editReply({ embeds: [embedMessage] })
 
 		if (typeof process.env.SEND_GAME_TX_DM !== "undefined" && process.env.SEND_GAME_TX_DM === "true") {
-			const discordUser = await client.users.fetch(userProfile.userId);
+			const discordUser = await client.users.fetch(user.userId);
 			try {
 				await discordUser.send(logMessage);
 			} catch (err) {
